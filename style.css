@@ -1,0 +1,12 @@
+/*
+Theme Name: Awful-Royalty
+Author: Sean Burgess
+Author URI: https://seanmburgess.com
+Description: https://github.com/seenth/awful-royalty
+Version: 1.0.0
+GitHub Theme URI: https://github.com/seenth/awful-royalty
+*/
+
+@import 'imports/base/layout.css';
+@import 'imports/base/typography.css';
+@import 'imports/components/main-menu.css';
